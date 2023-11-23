@@ -28,6 +28,12 @@ Copy code
 python blissbot.py
 Open your browser and navigate to http://localhost:8053 to interact with BlissBot.
 
+![output1](https://github.com/anupvjpawar/Therapist-Chat-Bot/assets/76862648/946a9057-da97-470b-86fb-3501679e2d24)
+
+
+![output2](https://github.com/anupvjpawar/Therapist-Chat-Bot/assets/76862648/9848e493-5a95-4b3e-abdc-037614721d93)
+
+
 Project Structure
 blissbot.py: The main Dash web application script.
 Sheet_1.csv: Dataset containing text responses used for training the model.
