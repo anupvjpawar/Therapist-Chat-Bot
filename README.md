@@ -1,7 +1,10 @@
 BlissBot
+
 BlissBot is a therapeutic chatbot designed to provide a supportive and comforting virtual environment. This project combines natural language processing with image recognition to create an interactive experience for users. BlissBot evaluates user inputs and provides predictions about the emotional content of the text, accompanied by visual cues.
 
 Features
+
+
 Text Analysis: Utilizes natural language processing techniques to analyze user-provided text.
 Emotional Prediction: Predicts whether the input text is flagged as concerning content or considered fine.
 Interactive Interface: Integrates with a user-friendly web interface powered by Dash, allowing users to interact with BlissBot easily.
